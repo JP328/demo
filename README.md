@@ -1,13 +1,10 @@
 # Demo
+<html>
 
-*Learning a little about git and github
+<h1 aling="center" style="color: red;"> Learning git and github <h1/> 
+ <button>Learn more<button/>
 
 
 
-2@   
- <html>
- <h1> Title <h1/>
 
  <html/>
-
- 
